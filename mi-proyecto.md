@@ -7,8 +7,7 @@ Este es mi primer proyecto usando Git.
    
    ## v1.0.0
    - Proyecto inicial
-     ```
-     ``` 
-     ## Última actualización
-     Editado desde GitHub web interface  
+      ```
+# Última actualización
+ Editado desde GitHub web interface  
      ```
