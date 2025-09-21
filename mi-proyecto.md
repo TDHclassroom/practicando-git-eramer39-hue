@@ -1,7 +1,5 @@
 # Mi Proyecto Git
-Este es mi primer proyecto usando Git.
-## Última actualización
- Editado desde GitHub web interface  
+Este es mi primer proyecto usando Git. 
      
 ## Características
 - Aprendiendo Git paso a paso
@@ -9,4 +7,6 @@ Este es mi primer proyecto usando Git.
    
    ## v1.0.0
    - Proyecto inicial
-   ```
+     
+## Última actualización 
+Editado desde GitHub web interface ---
