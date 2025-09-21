@@ -2,12 +2,12 @@
 Este es mi primer proyecto usando Git. 
      
 ## Características
-- Aprendiendo Git paso a paso
+Aprendiendo Git paso a paso
 # Changelog
    
-   ## v1.0.0
-   - Proyecto inicial
-     ``` 
+## v1.0.0
+Proyecto inicial
+     
 ## Última actualización
 Editado desde GitHub web interface
 
@@ -15,3 +15,5 @@ Editado desde GitHub web interface
    Versión desarrollada en rama feature
 ## Información del proyecto
    Versión desarrollada en rama main
+## Información del proyecto
+Versión combinada de ambas ramas
