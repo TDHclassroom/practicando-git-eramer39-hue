@@ -1,4 +1,6 @@
 # Mi Proyecto Git
+## Última actualización
+     Editado desde GitHub web interface
 
 Este es mi primer proyecto usando Git.
 ## Características
